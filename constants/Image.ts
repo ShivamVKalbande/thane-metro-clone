@@ -1,0 +1,21 @@
+export default {
+    logo: require('@/assets/images/logo.png'),
+    blank: require('@/assets/images/blank.jpg'),
+    ganesh: require('@/assets/images/ganesha-mandir.jpg'),
+    kelva: require('@/assets/images/kelva-beach.jpg'),
+    suraj: require('@/assets/images/suraj-water-park.jpg'),
+    tikuji: require('@/assets/images/tikuji-ni-wadi.jpg'),
+    cover: require('@/assets/images/thane-cover.jpg'),
+    // background: require('@/assets/images/background-metro.png'),
+    background: require('@/assets/images/background-metro1.png'),
+    about: require('@/assets/images/about_thane_metro.png'),
+    slider1: require('@/assets/images/slider1.jpg'),
+    slider2: require('@/assets/images/slider2.jpg'),
+    slider3: require('@/assets/images/slider3.jpg'),
+    slider4: require('@/assets/images/slider4.jpg'),
+    facebook: require('@/assets/images/facebook.webp'),
+    x: require('@/assets/images/x.png'),
+    youtube: require('@/assets/images/youtube.webp'),
+    instagram: require('@/assets/images/instragram.webp'),
+   
+}
